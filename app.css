@@ -1,0 +1,19 @@
+h1 {
+  color: rgb(200,150,100);
+  border: 5px solid purple;
+}
+
+li {
+  color: green;
+}
+
+h4 {
+  background: rgb(255,100,80);
+}
+
+body {
+  background: pink;
+ /* background: url(https://s-media-cache-ak0.pinimg.com/originals/93/90/f9/9390f92652e4ff9ca157087c894fb3c0.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;*/
+}
