@@ -1,0 +1,18 @@
+.line {
+  padding-bottom: 5px;
+}
+
+.field {
+  padding-right: 2px;
+}
+
+body {
+  margin: 20px;
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: #abe3d6;
+}
+
+input {
+  margin-right: 8px;
+}
+
